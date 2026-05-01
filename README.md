@@ -6,10 +6,12 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/anchitchourasia/anime)
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Open%20Notebook-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/anchitchourasia/anime)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat)](LICENSE)
 
 **A complete DCGAN pipeline that learns to generate realistic anime faces from scratch — trained end-to-end on the Kaggle Anime Face Dataset.**
+
+👉 **[View Live Kaggle Notebook with Full Training Outputs](https://www.kaggle.com/code/anchitchourasia/anime)**
 
 </div>
 
@@ -204,11 +206,11 @@ python gan_anime_faces.py
 > dataset_path = './data/images'
 > ```
 
-### Run on Kaggle (Recommended)
+### ⭐ Run on Kaggle (Recommended)
 
-Full trained notebook with all outputs is publicly available:
+Full trained notebook with live outputs, loss curves, and generated samples is publicly available:
 
-👉 **[View Live Kaggle Notebook](https://www.kaggle.com/code/anchitchourasia/anime)**
+👉 **[https://www.kaggle.com/code/anchitchourasia/anime](https://www.kaggle.com/code/anchitchourasia/anime)**
 
 ---
 
@@ -313,7 +315,7 @@ The adversarial training dynamics remained stable throughout — neither network
 | [Torchvision](https://pytorch.org/vision/) | Image transforms, dataset utilities |
 | [Pillow (PIL)](https://python-pillow.org/) | Image loading and format handling |
 | [Matplotlib](https://matplotlib.org/) | Visualising generated image grids |
-| [Kaggle Notebooks](https://www.kaggle.com/) | Cloud GPU training environment |
+| [Kaggle Notebooks](https://www.kaggle.com/code/anchitchourasia/anime) | Cloud GPU training environment |
 
 ---
 
